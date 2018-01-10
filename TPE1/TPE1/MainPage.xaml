@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TPE1"
+             x:Class="TPE1.MainPage">
+
+    <local:CherryPage  Icon="cherry.png"/>
+    <local:GrapesPage Icon="grapes.png"/>
+    <local:OrangePage  Icon="orange.png"/>
+    <local:ApplePage  Icon="apple.png"/>
+
+</TabbedPage>
